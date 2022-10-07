@@ -1,6 +1,6 @@
 ## Hello 👋
 
-### Welcome To My Github Page
+### Welcome to my Github Profile Page
 
 - 🔭 I’m a tech enthusiast and a data junkie
 - 🌱 I'm interested in data analysis, data science, machine learning , artifical intelligence and big data. Just everything data
